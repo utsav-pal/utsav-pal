@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript
-- **Frameworks & Libraries:** React, Node.js
+- **Frameworks & Libraries:** React, Django
 - **Tools & Platforms:** Git, GitHub, Docker
 - **Data & AI:** Pandas, NumPy, Scikit-learn
 <!--
